@@ -1,2 +1,2 @@
-# text-classifier
-text/binary classification/machine learning
+# Breast Cancer Predict
+data/binary classification/machine learning
